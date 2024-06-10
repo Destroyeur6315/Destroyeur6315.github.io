@@ -118,7 +118,7 @@ section .title::after {
 
 .navbar.sticky {
   padding: 15px 0;
-  background: #1e3551;
+  background: #0f2e50;
 }
 
 .navbar .max-width {
@@ -849,7 +849,7 @@ section .title::after {
 
 /*  Footer  */
 footer {
-  background: #01142b;
+  background: #0f2e50;
   color: #888c8d;
   text-align: center;
   padding-top: 15px;
