@@ -847,6 +847,10 @@ section .title::after {
   color: #fff;
 }
 
+.reach{
+  margin-top: 50px;
+}
+
 /*  Footer  */
 footer {
   background: #0f2e50;
@@ -854,6 +858,8 @@ footer {
   text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 footer span a {
